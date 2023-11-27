@@ -1,4 +1,5 @@
-# Info
+# Custom Console Decor Print (java-script)
+## Info
 Small js decoration message project in console (Excluding lowercase).
 
 ## Char Table
